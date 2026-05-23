@@ -8,6 +8,7 @@ Includes configs for:
 - Waybar
 - Wofi
 - Kitty
+- Mako
 
 Theme style:
 
@@ -16,10 +17,4 @@ Theme style:
 - green terminal
 - flat glass aesthetic
 
-System:
-
-- Debian Forky
-- Hyprland
-- Waybar
-- Wofi
-- Kitty
+System: Debian 14 (Forky)
